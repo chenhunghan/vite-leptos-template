@@ -34,5 +34,6 @@ rustup toolchain install nightly
 rustup override set nightly
 cargo binstall trunk
 
+npm install
 npm run dev
 ```
