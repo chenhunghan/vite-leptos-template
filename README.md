@@ -14,6 +14,7 @@ cargo binstall trunk
 ## Development
 
 ```sh
+npm install
 npm run dev
 ```
 
