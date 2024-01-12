@@ -1,6 +1,9 @@
 # vite-leptos-template
 
 A vite starter template for creating [Leptos](https://leptos.dev/) projects.
+```sh
+npx degit chenhunghan/vite-leptos-template my-project
+```
 
 ## Prerequisites
 
